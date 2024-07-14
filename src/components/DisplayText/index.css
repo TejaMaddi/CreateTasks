@@ -1,0 +1,21 @@
+.list-tab-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1a171d;
+  padding: 4px;
+  margin-bottom: 15px;
+}
+.para-item {
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.para-button {
+  background-color: #f3aa4e;
+  color: #475569;
+  border-radius: 10px;
+  font-size: 12px;
+  padding: 4px 8px 4px 8px;
+}
